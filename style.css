@@ -1,0 +1,188 @@
+body {
+    font: normal 4px Verdana, Arial, sans-serif;
+    
+  padding-top: 2px;
+
+}
+
+
+
+.post{
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+.smallgrey{
+    margin-top: 5px;
+    font-style: italic;
+    font-size: 10px;
+    color: darkgrey ;
+    margin-bottom: 10px;
+    
+    
+}
+.Ttext{
+    font-size: 11px;
+    color:gray;
+    text-align: justify;
+}
+
+.best{
+    margin-top: 10px;
+    margin-bottom: 5px;
+    margin-right: 2px;
+    font-size: 15px;
+    text-align: left;
+}
+.list{
+    font-size: 10px;
+        color: #696969;
+    text-align: justify;
+}
+.tester{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.quote{
+    margin-top: 15px;
+    box-sizing: content-box;    
+    
+    padding: 25px;    
+    border: 0.05px solid grey;
+    text-align: justify;
+    
+}
+.quotefont{
+    font-style: italic;
+    font-size: 12px;
+    color: darkgrey ;
+   text-align: justify;
+    
+}
+.container1{
+    border: 1px;
+    border-color: black;
+    margin: 1px;
+    
+}
+.socialcenter{
+text-align: center;
+    font-size: 15px;
+margin-bottom: 10px;
+}
+.counter{
+  font-size: 11px;  
+    color: black ;
+}
+
+
+
+.following{
+    color: darkgray;
+     font-size: 10px;
+}
+
+.blackbox{
+    padding-top:  25px;
+    padding-bottom: 25px;
+    text-align: center;
+    background-color: black;
+    width: 85%;
+    height: 14%;
+}
+.heading{
+    padding: 10px;
+border: 3px;
+    font-size: 12px;
+    border-color: grey;
+    border-left: 2px;
+    border-left-color: yellow;
+}
+.mostpopular{
+    margin-top: 20px;
+    
+}
+
+.mediatext{
+    font-size: 10px;
+    text-align: inherit;
+    color: black ;
+    
+}
+.datetime{
+    font-size: 8px;
+}
+
+.footer{
+background-color: black;
+    width: 100%;
+    height: auto;
+}
+
+
+.lorem{
+    font-size: 10px;
+    
+}
+
+.alignleftsocial{
+    margin-top: 10px;
+    text-align: right;
+    color: grey;
+    padding-right: 50px;
+}
+.media-heading100{
+    font-size: 10px;
+    color: grey;
+}
+
+
+
+.media-heading101{
+    font-size: 15px;
+}
+.alitlf{
+    align-content: right;
+}
+.commentfillers{
+    font-size: 10px;
+    color: grey;
+    padding-top: 10px;
+}
+.shifting{
+    margin-left: 300px;
+    font-size: 10px;
+    margin-bottom: 10px;
+    margin-top: -17px;
+    
+}
+.lasthead{
+    color: white;
+    font-size: 10px;
+}
+.toalignit{
+    margin-top: 35px;
+}
+.lastheadbottom{
+    font-size: 10px;
+    padding-top: 5px;
+}
+.mediatext101{
+    color: white;
+    font-size: 10px;
+}
+.datetime101{
+    font-size: 5px;
+}
+.heading225{
+    margin-top: 50px;
+    border-left: 5px;
+    border-color: yellow
+}
+.loremlorem{
+    font-size: 10px;
+    color: grey;
+}
+.commentheading{
+    margin-top: 40px;
+}
