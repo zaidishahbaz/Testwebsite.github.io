@@ -55,7 +55,7 @@ body {
 .quotefont{
     font-style: italic;
     font-size: 12px;
-    
+    margin-top: -10px;
    text-align: justify;
    background-image: url("quotes.jpg");
    background-repeat:no-repeat;
@@ -218,6 +218,16 @@ background-color: black;
     height: 190px;
 }
 
-.row1{
-    height: 10px;
+.navbar-nav {
+    width: 50%;
+    text-align: center;
+    > li {
+      float: none;
+      display: inline-block;
+      align-content: center;
+      margin: 0 auto;
+    }
+  }
+.nav-navbar-nav{
+ text-align: center;
 }
