@@ -27,14 +27,14 @@ body {
 }
 
 .best{
-    margin-top: 10px;
+    margin-top: 20px;
     margin-bottom: 5px;
     margin-right: 2px;
-    font-size: 15px;
+    font-size: 13px;
     text-align: left;
 }
 .list{
-    font-size: 10px;
+    font-size: 9px;
         color: #696969;
     text-align: justify;
 }
@@ -55,10 +55,24 @@ body {
 .quotefont{
     font-style: italic;
     font-size: 12px;
-    color: darkgrey ;
+    
    text-align: justify;
+   background-image: url("quotes.jpg");
+   background-repeat:no-repeat;
+   opacity: 0.5;
     
 }
+
+.fontfont{
+    font-style: italic;
+    font-size: 12px;
+    color: darkgrey ;
+   text-align: justify;
+}
+
+
+
+
 .container1{
     border: 1px;
     border-color: black;
@@ -176,13 +190,34 @@ background-color: black;
 }
 .heading225{
     margin-top: 50px;
-    border-left: 5px;
-    border-color: yellow
+    border-left: 2px solid yellow;
+    font-size: 12px;
+    
 }
 .loremlorem{
     font-size: 10px;
     color: grey;
 }
 .commentheading{
-    margin-top: 40px;
+    margin-top: 20px;
+}
+.checked {
+    color: orange;
+
+    }
+.greaterless{
+    color: grey;
+
+    font-size: 12px;
+    margin-left: 180px;
+    margin-top: -22px;
+}
+.img-responsive101{
+    margin-left: -5px;
+    width: 200px;
+    height: 190px;
+}
+
+.row1{
+    height: 10px;
 }
