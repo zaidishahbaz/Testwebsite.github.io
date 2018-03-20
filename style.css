@@ -57,11 +57,15 @@ body {
     font-size: 12px;
     margin-top: -10px;
    text-align: justify;
-   background-image: url("quotes.jpg");
+    
+   
    background-repeat:no-repeat;
    opacity: 0.5;
     
 }
+
+
+
 
 .fontfont{
     font-style: italic;
@@ -238,4 +242,11 @@ background-color: black;
 .yewala{
 font-size: 10px;
     color: grey;
+}
+.free{
+background-image: url("quotes.jpg");
+    background-repeat: no-repeat;
+    padding: 10px;
+    opacity: 0.1;
+    width: 20px;
 }
