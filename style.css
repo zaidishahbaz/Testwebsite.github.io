@@ -136,6 +136,8 @@ background-color: black;
 
 .lorem{
     font-size: 10px;
+    margin-top: 25px;
+    color: antiquewhite;
     
 }
 
@@ -172,7 +174,8 @@ background-color: black;
 }
 .lasthead{
     color: white;
-    font-size: 10px;
+    font-size: 15px;
+    margin-top: -10px;
 }
 .toalignit{
     margin-top: 35px;
@@ -180,6 +183,7 @@ background-color: black;
 .lastheadbottom{
     font-size: 10px;
     padding-top: 5px;
+    color: antiquewhite;
 }
 .mediatext101{
     color: white;
